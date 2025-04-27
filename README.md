@@ -9,6 +9,7 @@ This repository contains the submission for the Data Engineer Assessment, focusi
 - `main.ipynb`: Jupyter notebook containing the complete workflow, including data extraction, transformation, analysis, and visualizations.
 - `README.md`: This file, providing an overview and instructions.
 - `requirements.txt`: List of Python dependencies required to run the notebook.
+- `fuel_price_analysis.log`: Log file capturing all operations performed in the notebook, including data extraction, transformation, and analysis steps.
 
 ## Assessment Tasks
 
@@ -62,7 +63,7 @@ The notebook addresses the following requirements:
    - Ensure an active internet connection to access the API (`https://api.data.gov.my/data-catalogue?id=fuelprice`).
 
 3. **Run the Notebook**:
-   - Start Jupyter Notebook:
+   - Start Visual Studio Code:
      ```bash
      code .
      ```
