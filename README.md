@@ -45,8 +45,8 @@ The notebook addresses the following requirements:
 
 1. **Prerequisites**:
 
-   - Python 3.8+
-   - Jupyter Notebook or JupyterLab
+   - Python 3.10.13
+   - Visual Studio Code, Jupyter Notebook, or Google Colab
    - Required libraries: `requests`, `pandas`, `numpy`, `matplotlib`
    - Install dependencies from `requirements.txt`:
      ```bash
